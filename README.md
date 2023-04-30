@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif"/>
+  <img src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif" width="100%"/>
 </div>
 
 <div id="badges" align="center">
@@ -8,7 +8,7 @@
   </a>
   <a href="https://t.me/mister_Vodka">
     <img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge"/>
-  </a> надежностьp
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=V0000DY&style=flat-square&color=blue" alt="Profile view counter"/>
