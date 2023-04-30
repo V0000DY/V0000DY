@@ -12,7 +12,30 @@
     <img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
+
 <img src="https://komarev.com/ghpvc/?username=V0000DY&style=flat-square&color=blue" alt="Profile view counter"/>
+
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+### :man_technologist: About Me :
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I’m working as a Freelancer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve cata on CodeWars and read tech articles.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white&style=for-the-badge)](mailto:proektant.burenie@gmail.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V0000DY&theme=algolia&show_icons=true)
 
 <!--
 **V0000DY/V0000DY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
