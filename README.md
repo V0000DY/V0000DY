@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kIXTcn43hh2vl61gJ/giphy.gif" width="100"/>
+</div>
+
 <!--
 **V0000DY/V0000DY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
