@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <h1>Hi, I'm Vitalii Rubtsov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <h1>A Web developer at your service</h1>
+  <h1>
+    Hi, I'm Vitalii Rubtsov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
+    A Web developer at your service!
+  </h1>
   
   <img src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif" width="100%"/>
   
