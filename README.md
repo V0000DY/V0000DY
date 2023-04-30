@@ -37,9 +37,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <div id="stats" align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V0000DY&theme=bear&show_icons=true)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V0000DY)](https://github.com/V0000DY/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V0000DY&theme=bear&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V0000DY&theme=bear)](https://github.com/V0000DY/github-readme-stats)
 
 </div>
 
