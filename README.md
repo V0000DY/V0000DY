@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="mailto:proektant.burenie@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail badge"/>
   </a>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=V0000DY&show_icons=true)](https://github.com/V0000DY)
+<img src="https://komarev.com/ghpvc/?username=V0000DY&style=flat-square&color=blue" alt="Profile view counter"/>
 
 <!--
 **V0000DY/V0000DY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
