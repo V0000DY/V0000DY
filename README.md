@@ -1,14 +1,13 @@
-<h1>
-  Hi, I'm Vitalii Rubtsov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<h1>
-  A Web developer at your service
-</h1>
-
 <div id="header" align="center">
+  <h1>
+    Hi, I'm Vitalii Rubtsov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    A Web developer at your service
+  </h1>
+  
   <img src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif" width="100%"/>
+  
   <img src="https://komarev.com/ghpvc/?username=V0000DY&style=flat-square&color=blue" alt="Profile view counter"/>
+
 </div>
 
 ---
@@ -27,7 +26,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <div id="stats" align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V0000DY&theme=bear&show_icons=true&card_width=550) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V0000DY&theme=bear)](https://github.com/V0000DY/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V0000DY&theme=bear&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V0000DY&theme=bear&card_width=250)](https://github.com/V0000DY/github-readme-stats)
 
 </div>
 
