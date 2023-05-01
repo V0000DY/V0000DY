@@ -1,21 +1,22 @@
 <div id="header" align="center">
-  <h1 style="color: #C71585">
+  <h1>
     Hi, I'm Vitalii Rubtsov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
     A Web developer at your service!
   </h1>
   
   <img src="https://media.giphy.com/media/ZZIEtQHmiTNwuxTOdt/giphy.gif" width="100%"/>
   
-  <img src="https://komarev.com/ghpvc/?username=V0000DY&style=flat-square&color=blue" alt="Profile view counter"/>
+  <img src="https://komarev.com/ghpvc/?username=V0000DY&style=flat-square&color=blueviolet" alt="Profile view counter"/>
 
 </div>
 
-<p style="color: red;">
-  I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. :telescope: I’m working as a Freelancer and contributing to frontend for building web applications. :zap: In my free time, I solve cata on CodeWars and read tech articles.
- </p>
- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white&style=plastic)](mailto:proektant.burenie@gmail.com) [![Telegram Badge](https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=plastic)](https://t.me/mister_Vodka)
+### :man_technologist: About Me :
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+:telescope: I’m working as a Freelancer and contributing to frontend for building web applications.
+:zap: In my free time, I solve cata on CodeWars and read tech articles.
+:mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white&style=plastic)](mailto:proektant.burenie@gmail.com) [![Telegram Badge](https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=plastic)](https://t.me/mister_Vodka)
 
-<h2 style="color: MediumVioletRed" align="center">
+<h2 color="blue" align="center">
   Technology Stack
 </h2>
 
@@ -32,11 +33,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h2 style="color: MediumVioletRed" align="center">
+<h2 color="MediumVioletRed" align="center">
   My Github Stats
 </h2>
 
 <div id="stats" align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=V0000DY&theme=bear)](https://git.io/streak-stats)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V0000DY&theme=bear&show_icons=true) 
   
