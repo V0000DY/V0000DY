@@ -10,14 +10,14 @@
 
 </div>
 
-### :man_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-:telescope: I’m working as a Freelancer and contributing to frontend for building web applications.
-:zap: In my free time, I solve cata on CodeWars and read tech articles.
-:mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white&style=plastic)](mailto:proektant.burenie@gmail.com) [![Telegram Badge](https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=plastic)](https://t.me/mister_Vodka)
+### About Me :
+I am a Front-End Developer from Russia.
+- :telescope: I’m working as a Freelancer and contributing to frontend for building web applications.
+- :zap: In my free time, I solve cata on CodeWars and read tech articles.
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white&style=plastic)](mailto:proektant.burenie@gmail.com) [![Telegram Badge](https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=plastic)](https://t.me/mister_Vodka)
 
-<h2 color="blue" align="center">
-  Technology Stack
+<h2 align="center">
+  :hammer_and_wrench: Technology Stack
 </h2>
 
 <div align="center">
@@ -33,8 +33,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h2 color="MediumVioletRed" align="center">
-  My Github Stats
+<h2 align="center">
+  :fire: My Github Stats
 </h2>
 
 <div id="stats" align="center">
