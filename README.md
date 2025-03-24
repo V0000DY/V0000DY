@@ -12,9 +12,9 @@
 
 ### About Me :
 I am a FrontEnd Developer.
-- :telescope: I’m working as a Freelancer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Frontend-developer.
 - :zap: In my free time, I solve cata on CodeWars and read tech articles.
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white&style=plastic)](mailto:procoverty@gmail.com) [![Telegram Badge](https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=plastic)](https://t.me/mister_Vodka)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white&style=plastic)](mailto:procoverty@gmail.com) [![Telegram Badge](https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white&style=plastic)](https://t.me/RubtsovDev)
 
 <h2 align="center">
   :hammer_and_wrench: Technology Stack
